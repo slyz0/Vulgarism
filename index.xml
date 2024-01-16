@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
+    <link>https://slyz0.github.io/Vulgarism/</link>
     <description>Recent content on My New Hugo Site</description>
     
-    <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://slyz0.github.io/Vulgarism/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
